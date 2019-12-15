@@ -17,3 +17,16 @@ Amazon API Gateway는 AWS Lambda함수를 통해서 다음 기능을 수행합�
 2. 디바이스의 정보를 조회하거나 변경하는 REST API
 3. 디바이스의 로그 정보를 조회하는 REST API
 
+Arduino : https://github.com/qkrrhksdlr/IoT_Cloudplatform/tree/master/AWS_IoT_DHT11/AWS_IoT_DHT11
+
+Android : https://github.com/qkrrhksdlr/IoT_Cloudplatform/tree/master/Android-RestAPI-master
+
+사물조회 : https://github.com/qkrrhksdlr/IoT_Cloudplatform/tree/master/ListingDeviceLambdaJavaProject
+
+상태조회 : https://github.com/qkrrhksdlr/IoT_Cloudplatform/tree/master/GetDeviceLambdaJavaProject
+
+상태변경 : https://github.com/qkrrhksdlr/IoT_Cloudplatform/tree/master/UpdateDeviceLambdaJavaProject
+
+DB저장 : https://github.com/qkrrhksdlr/IoT_Cloudplatform/tree/master/RecordingDeviceDataJavaProject2
+
+로그값조회 : https://github.com/qkrrhksdlr/IoT_Cloudplatform/tree/master/LogDeviceLambdaJavaProject
