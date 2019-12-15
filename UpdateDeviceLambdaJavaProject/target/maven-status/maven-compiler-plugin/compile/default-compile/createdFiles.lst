@@ -1,0 +1,3 @@
+com\amazonaws\lambda\demo\Tag.class
+com\amazonaws\lambda\demo\UpdateDeviceHandler.class
+com\amazonaws\lambda\demo\Event.class
